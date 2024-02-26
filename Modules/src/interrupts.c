@@ -7,8 +7,6 @@
 #include "interrupts.h"
 #include "main.h"
 
-int x;
-
 extern float ia__A__r32;
 extern PID_Struct Ireg;
 extern PID_Struct Wreg;
