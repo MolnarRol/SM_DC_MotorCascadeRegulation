@@ -12,6 +12,8 @@ extern PID_Struct Ireg;
 extern PID_Struct Wreg;
 extern float speed__rpm__r32;
 
+int x;
+
 float u;
 float zu;
 float i_filtered = 0.0f;
